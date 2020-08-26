@@ -1,0 +1,47 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorSelectWord" />
+  <action id="ExportToTextFile" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="RefactoringMenu">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
