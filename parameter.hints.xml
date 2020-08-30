@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.innov8tif.commonslib.helper.Logger.d(text)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
