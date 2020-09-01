@@ -1,8 +1,13 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ExtractFunction" />
+  <action id="ExtractMethod" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta alt m" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta o" />
