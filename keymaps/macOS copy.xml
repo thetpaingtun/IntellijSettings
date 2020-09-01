@@ -6,8 +6,12 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="GotoSymbol" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta o" />
