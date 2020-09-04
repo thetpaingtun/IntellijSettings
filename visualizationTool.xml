@@ -23,9 +23,19 @@
               <option name="theme" value="Theme.AppCompat.Light.NoActionBar" />
               <option name="uiMode" value="NORMAL" />
             </CustomConfigurationAttribute>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="30" />
+              <option name="deviceId" value="wear_square" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="Theme.AppCompat.Light.NoActionBar" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
           </list>
         </option>
-        <option name="scale" value="0.1" />
+        <option name="scale" value="0.14218422889043963" />
+        <option name="visible" value="true" />
       </GlobalState>
     </option>
   </component>
