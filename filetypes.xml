@@ -9,6 +9,7 @@
       <mapping pattern="Fastfile" type="PLAIN_TEXT" />
       <mapping pattern="ss_config" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
