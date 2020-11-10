@@ -2,15 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="credits" type="PLAIN_TEXT" />
       <mapping pattern="instr.mp4" type="PLAIN_TEXT" />
       <mapping pattern="Fastfile" type="PLAIN_TEXT" />
       <mapping pattern="ss_config" type="PLAIN_TEXT" />
-      <mapping ext="lic" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
