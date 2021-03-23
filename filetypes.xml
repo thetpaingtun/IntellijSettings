@@ -9,6 +9,7 @@
       <mapping pattern="ss_config" type="PLAIN_TEXT" />
       <mapping pattern="instr.mp4" type="PLAIN_TEXT" />
       <mapping pattern="Fastfile" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
