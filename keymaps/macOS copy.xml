@@ -1,6 +1,9 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="ExtractFunction" />
   <action id="ExtractMethod" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
