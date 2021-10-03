@@ -1,5 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateLogcatToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="meta b" />
@@ -21,6 +23,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoSymbol" />
   <action id="InsertLiveTemplate" />
   <action id="ManageRecentProjects">
@@ -35,6 +38,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
