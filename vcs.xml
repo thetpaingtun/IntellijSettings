@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/florent37/ShapeOfView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/raywenderlich/rxa-materials/tree/editions/2.0/15-testing-rxjava-code/projects/final" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\TestProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/TestProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
