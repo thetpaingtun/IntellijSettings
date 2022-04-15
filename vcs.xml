@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/BlinkID/blinkid-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://innodev.cloudapp.net/svn/fn-digitization/android/equipment-withdrawal/trunk/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/TestProjects" />
