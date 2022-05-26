@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="e0dbeb63" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-26T09:01:40.417492Z" />
+        <name value="OnePlus ONEPLUS A6000" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="4EY5T18801001950" />
           </Key>
         </key>
@@ -12,17 +24,6 @@
         <name value="HUAWEI PAR-LX9" />
         <target value="Android 9.0" />
         <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="e0dbeb63" />
-          </Key>
-        </key>
-        <name value="OnePlus ONEPLUS A6000" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
